@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,V as a}from"./chunks/framework.9d7713fb.js";const m=JSON.parse('{"title":"Pong3d","description":"","frontmatter":{},"headers":[],"relativePath":"pong3d/pong.md","filePath":"pong3d/pong.md"}'),n={name:"pong3d/pong.md"},s=a("",6),i=[s];function r(d,p,c,l,h,g){return o(),t("div",null,i)}const u=e(n,[["render",r]]);export{m as __pageData,u as default};
